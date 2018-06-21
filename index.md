@@ -24,14 +24,14 @@ analytical chemistry
 
 ```markdown
 -1
-[1]	李跑，马雁军，马莉，杨玉清，杜国荣*，基于近红外漫反射光谱和化学计量学方法的晒红烟常规化学指标的快速测定，湖南农业大学学报(自然科学版) 2018, 44(3):251–255. DOI:10.13331/j.cnki.jhau.2018.03.005
-[2]	Pao Li, Guorong Du, Yanjun Ma, Jun Zhou, Liwen Jiang, A novel multivariate calibration method based on variable adaptive boosting partial least squares algorithm, Chemometrics and Intelligent Laboratory Systems 176 (2018) 157–161
-[3]	杜国荣，周骏，蒋立文，刘霞，李跑，一种基于窗口竞争性自适应重加权采样策略的近红外特征变量选择方法，光谱学与光谱分析，已经接收
-[4]	杜国荣，董怡青，李跑，复杂色谱信号自动解析中的化学计量学方法，分析测试学报，第 37 卷 第 1 期，2018 年 1 月，Vol. 37 No. 1, 112 ～118
-[5]	李跑;马雁军;马莉;张威;周骏;杜国荣, 烟草总植物碱国际共同实验测定方法的比对, 湖南农业大学学报(自然科学版), 2017, 43(4), 388-393
-[6]	Du Guorong, Ma Yanjun, Ma Li, Zhou Jun, Huang Yue, Exploring  the use of NIR reﬂectance spectroscopy in prediction of free L-Asparagine in solanaceae  plants, International Journal of Biological Macromolecules 91 (2016) 426–430
-[7]	Guorong Du, Wensheng Cai, Xueguang Shao. A variable differential consensus method for improving the quantitative near-infrared spectroscopic analysis. Science China Chemistry, 2012 , 55 (9) :1946-1952.
-[8]	Xueguang Shao, Guorong Du, Ming Jing. Wensheng Cai. Application of latent projective graph in variable selection for near infrared spectral analysis. Chemometrics and Intelligent Laboratory Systems, 2012, 114: 44~49.
+[1]李跑，马雁军，马莉，杨玉清，杜国荣*，基于近红外漫反射光谱和化学计量学方法的晒红烟常规化学指标的快速测定，湖南农业大学学报(自然科学版) 2018, 44(3):251–255. DOI:10.13331/j.cnki.jhau.2018.03.005
+[2]Pao Li, Guorong Du, Yanjun Ma, Jun Zhou, Liwen Jiang, A novel multivariate calibration method based on variable adaptive boosting partial least squares algorithm, Chemometrics and Intelligent Laboratory Systems 176 (2018) 157–161
+[3]杜国荣，周骏，蒋立文，刘霞，李跑，一种基于窗口竞争性自适应重加权采样策略的近红外特征变量选择方法，光谱学与光谱分析，已经接收
+[4]杜国荣，董怡青，李跑，复杂色谱信号自动解析中的化学计量学方法，分析测试学报，第 37 卷 第 1 期，2018 年 1 月，Vol. 37 No. 1, 112 ～118
+[5]李跑;马雁军;马莉;张威;周骏;杜国荣, 烟草总植物碱国际共同实验测定方法的比对, 湖南农业大学学报(自然科学版), 2017, 43(4), 388-393
+[6]Du Guorong, Ma Yanjun, Ma Li, Zhou Jun, Huang Yue, Exploring  the use of NIR reﬂectance spectroscopy in prediction of free L-Asparagine in solanaceae  plants, International Journal of Biological Macromolecules 91 (2016) 426–430
+[7]Guorong Du, Wensheng Cai, Xueguang Shao. A variable differential consensus method for improving the quantitative near-infrared spectroscopic analysis. Science China Chemistry, 2012 , 55 (9) :1946-1952.
+[8]Xueguang Shao, Guorong Du, Ming Jing. Wensheng Cai. Application of latent projective graph in variable selection for near infrared spectral analysis. Chemometrics and Intelligent Laboratory Systems, 2012, 114: 44~49.
 -2
 [1]	Yue Huang, Guorong Du, Yanjun Ma, Jun Zhou, Near-infrared  determination of polyphenols using linear and nonlinear regression algorithms, Optik 126 (2015) 2030–2034 SCI
 [2]	Zhen Mei, Guorong Du, Wensheng Cai, Xueguang Shao, A chemometric method to identify selective ion for resolution of overlapping gas chromatography-mass spectrometry signal, Science China Chemistry, 2013, 56(5): 656-663 SCI
