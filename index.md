@@ -5,7 +5,17 @@
 - Nankai University, chemometrics, analytical chemistry
 ### Skills
 -Multivatiate calibration
-### References
+ -PLS
+ -spectra preprocessing
+ -outlier detection
+ -cluster methods, include pca, hca
+ -classfication methods, include PLSDA, LDA
+ -wavelete analysis
+ 
+-Matlab
+
+-Python
+### Publication list
 
 
 ```
