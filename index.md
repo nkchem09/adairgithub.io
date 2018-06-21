@@ -1,9 +1,9 @@
 # Welcome to Guorong Du's Homepage
 
 ### Introduction
-
+- Nankai University, chemometrics, analytical chemistry
 ### Skills
-
+-Multivatiate calibration
 ### References
 
 
