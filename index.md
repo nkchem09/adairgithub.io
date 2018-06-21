@@ -1,7 +1,7 @@
 ## Welcome to Guorong Du's homepage
 
-### Skills
-### References
+# Skills
+# References
 
 
 
