@@ -1,6 +1,9 @@
 # Welcome to Guorong Du's Homepage
 
+### Introduction
+
 ### Skills
+
 ### References
 
 
