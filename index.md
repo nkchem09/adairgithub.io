@@ -39,7 +39,6 @@ analytical chemistry
 [5]Yan Li, Guorong Du, Wensheng Cai, Xueguang Shao. Classification and quantitative analysis of Azithromycin tablets by Raman spectroscopy and Chemometrics. American Journal of Analytical Chemistry, 2011, 2: 135~141.
 [6]李积慧, 杜国荣, 康俊, 蔡文生, 邵学广. 阴离子交换树脂结合近红外漫反射光谱测定碳酸饮料中日落黄. 分析化学, 2011, 39: 898~901. 核心
 -3
-
 [1]Shang Yana, Xiaoxia Laia, Guorong Dub, Yuhong Xiang, Identification of Aminoglycoside Antibiotics in Milk Matrix with a Colorimetric Sensor Array and Pattern Recognition Methods, Analytica Chimica Acta, doi: https://doi.org/10.1016/j.aca.2018.06.004 SCI
 [2]马雁军;李雪莹;马莉;杜国荣;丁睿;黄越;王允白;张义志;周骏;李军会, 用近红外光谱和特征指标判别国产白肋烟产地及部位间相似性, 中国烟草学报, 2017,23(3), 38-48 核心
 [3]李正风, 徐广晋, 王家俊, 杜国荣, 蔡文生, 邵学广, 模型诊断用于近红外光谱建模校正集中奇异样本的识别, 分析化学, 2016, 44(2) : 305 – 309 核心
@@ -47,38 +46,12 @@ analytical chemistry
 [5]Yanjun Ma, Ruoshi Bai, Guorong Du, Li Ma, Aijun He, Na Li, Xiaoli Yi, Wensheng Cai, Jun Zhou, Xueguang Shao. Rapid Determination of four tobacco specific nitrosamines in white burley tobaccos by near-infrared spectroscopy. Analytical Methods, 2012, 4: 1371~1376. SCI
 ```
 
-You can use the [editor on GitHub](https://github.com/nkchem09/adairgithub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+[Link1 nankai chinfo](http://chinfo.nankai.edu.cn/chmm/labintro/labintro_e.html) 
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nkchem09/adairgithub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
