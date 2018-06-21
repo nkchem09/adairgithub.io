@@ -51,5 +51,6 @@ analytical chemistry
 [Link](url) and ![Image](src)
 ```
 ### Support or Contact
-Link1 [nankai-chinfo](https://help.github.com/categories/github-pages-basics/) 
+[nankai-chinfolab](https://help.github.com/categories/github-pages-basics/) 
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
