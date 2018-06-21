@@ -47,7 +47,7 @@ analytical chemistry
 ```
 
 ```markdown
-[Link1 nankai chinfo](http://chinfo.nankai.edu.cn/chmm/labintro/labintro_e.html) 
+[Link1 nankai chinfo](https://help.github.com/categories/github-pages-basics/) 
 
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
