@@ -22,7 +22,7 @@ analytical chemistry
 ```
 ### Publication list
 
-```markdown
+
 -1
 [1]李跑，马雁军，马莉，杨玉清，杜国荣*，基于近红外漫反射光谱和化学计量学方法的晒红烟常规化学指标的快速测定，湖南农业大学学报(自然科学版) 2018, 44(3):251–255. DOI:10.13331/j.cnki.jhau.2018.03.005
 [2]Pao Li, Guorong Du, Yanjun Ma, Jun Zhou, Liwen Jiang, A novel multivariate calibration method based on variable adaptive boosting partial least squares algorithm, Chemometrics and Intelligent Laboratory Systems 176 (2018) 157–161
@@ -45,7 +45,7 @@ analytical chemistry
 [3]	李正风, 徐广晋, 王家俊, 杜国荣, 蔡文生, 邵学广, 模型诊断用于近红外光谱建模校正集中奇异样本的识别, 分析化学, 2016, 44(2) : 305 – 309 核心
 [4]	Yue Huang, Kuangda Tian, Shungeng Min, Yanmei Xiong, Guorong Du, Distribution assessment and quantiﬁcation of counterfeit melamine in powdered milk by NIR imaging methods, Food Chemistry 177 (2015) 174–181 SCI
 [5]	Yanjun Ma, Ruoshi Bai, Guorong Du, Li Ma, Aijun He, Na Li, Xiaoli Yi, Wensheng Cai, Jun Zhou, Xueguang Shao. Rapid Determination of four tobacco specific nitrosamines in white burley tobaccos by near-infrared spectroscopy. Analytical Methods, 2012, 4: 1371~1376. SCI
-```
+
 
 You can use the [editor on GitHub](https://github.com/nkchem09/adairgithub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
