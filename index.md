@@ -21,6 +21,7 @@ analytical chemistry
 -Python
 ```
 ### Publication list
+```markdown
 
 -1
 
@@ -66,7 +67,7 @@ analytical chemistry
 
 [5]Yanjun Ma, Ruoshi Bai, Guorong Du, Li Ma, Aijun He, Na Li, Xiaoli Yi, Wensheng Cai, Jun Zhou, Xueguang Shao. Rapid Determination of four tobacco specific nitrosamines in white burley tobaccos by near-infrared spectroscopy. Analytical Methods, 2012, 4: 1371~1376. SCI
 
-
+```
 
 You can use the [editor on GitHub](https://github.com/nkchem09/adairgithub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
