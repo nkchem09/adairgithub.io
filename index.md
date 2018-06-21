@@ -1,5 +1,6 @@
 # Welcome to Guorong Du's Homepage
 
+```markdown
 ### Introduction
 - Nankai University, chemometrics, analytical chemistry
 ### Skills
@@ -7,7 +8,7 @@
 ### References
 
 
-
+```
 
 You can use the [editor on GitHub](https://github.com/nkchem09/adairgithub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
